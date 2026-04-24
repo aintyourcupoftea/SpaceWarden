@@ -1,3 +1,3 @@
-module spacewarden2.0
+module SpaceWarden
 
 go 1.21
